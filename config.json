@@ -7,10 +7,10 @@
     "github_projects": true
   },
   "site": {
-    "title": "SanthoshaChannappa",
+    "title": "Santhosha Channappa",
     "description": "Developer Portfolio",
     "seo": {
-      "title": "SanthoshaChannappa - Developer Portfolio",
+      "title": "Santhosha Channappa - Developer Portfolio",
       "description": "Developer Portfolio of SanthoshaChannappa",
       "keywords": "developer, portfolio, github",
       "author": "SanthoshaChannappa",
@@ -20,7 +20,7 @@
     }
   },
   "header": {
-    "greeting": "SanthoshaChannappa",
+    "greeting": "Santhosha Channappa",
     "tagline": "Developer and Creator."
   },
   "social_links": [
@@ -82,8 +82,8 @@
         "name": "Programming Languages & Technologies",
         "items": [
           "JavaScript",
-          "Python",
-          "Java",
+          "C#",
+          "C",
           "TypeScript"
         ]
       },
